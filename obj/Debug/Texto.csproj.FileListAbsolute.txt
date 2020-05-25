@@ -1,0 +1,11 @@
+D:\Programas\Texto\bin\Debug\Texto.exe.config
+D:\Programas\Texto\bin\Debug\Texto.exe
+D:\Programas\Texto\bin\Debug\Texto.pdb
+D:\Programas\Texto\obj\Debug\Texto.csprojAssemblyReference.cache
+D:\Programas\Texto\obj\Debug\Texto.Form1.resources
+D:\Programas\Texto\obj\Debug\Texto.Properties.Resources.resources
+D:\Programas\Texto\obj\Debug\Texto.csproj.GenerateResource.cache
+D:\Programas\Texto\obj\Debug\Texto.csproj.CoreCompileInputs.cache
+D:\Programas\Texto\obj\Debug\Texto.exe
+D:\Programas\Texto\obj\Debug\Texto.pdb
+D:\Programas\Texto\obj\Debug\Texto.form2.resources
